@@ -10,6 +10,7 @@ It’s created for **developers who are new to Compose** and want to understand 
 
 - ✅ Jetpack Compose-based UI
 - ✅ AdMob integration with latest APIs
+- ✅ App Open on Resume applicaiton Ad
 - ✅ Banner Ad
 - ✅ Collapsible Banner Ad
 - ✅ Interstitial Ad
