@@ -1,6 +1,6 @@
 # 📱 Jetpack Compose AdMob Ads Integration (Kotlin)
 
-This repository provides a **simple and clean implementation** of integrating **AdMob Ads** (Banner, Interstitial, and Native Ads) into an Android app using **Jetpack Compose** in Kotlin.
+This repository provides a **simple and clean implementation** of  **AdMob Ads** (App Open, Banner, Interstitial, and Native Ads) into an Android app using **Jetpack Compose** in Kotlin.
 
 It’s created for **developers who are new to Compose** and want to understand how to show ads in a modern Android app.
 
