@@ -65,3 +65,9 @@ Inspired by Google’s AdMob documentation and Jetpack Compose community.
 - 📚 [Google Codelabs: Jetpack Compose](https://developer.android.com/codelabs/jetpack-compose-basics)
 
 ---
+
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
