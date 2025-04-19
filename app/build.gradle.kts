@@ -85,12 +85,4 @@ dependencies {
     implementation(libs.androidx.navigation.compose)
     //KotlinX Serialization
     implementation(libs.kotlinx.serialization.json)
-    // Firebase
-    implementation(platform("com.google.firebase:firebase-bom:33.10.0"))
-    implementation("com.google.firebase:firebase-crashlytics-ktx")
-    implementation("com.google.firebase:firebase-analytics-ktx")
-    implementation("com.google.firebase:firebase-messaging")
-    implementation("com.google.firebase:firebase-config:21.4.1")
-    implementation("com.google.firebase:firebase-config-ktx:21.4.1")
-
 }
